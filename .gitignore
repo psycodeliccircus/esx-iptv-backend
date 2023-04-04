@@ -1,6 +1,2 @@
-# OSX
-.DS_Store
-
-# npm
+.vercel
 node_modules
-coverage
